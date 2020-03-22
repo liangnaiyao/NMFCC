@@ -1,3 +1,3 @@
-# Semi-supervised multi-view clustering with Graph-regularized Partially Shared Non-negative Matrix Factorization
+# Multi-view clustering by non-negative matrix factorization with co-orthogonal constraints
 
-This is the code for paper "Semi-supervised multi-view clustering with Graph-regularized Partially Shared Non-negative Matrix Factorization", Knowledge-Based Systems, 2019.
+This is the code for paper "Multi-view clustering by non-negative matrix factorization with co-orthogonal constraints", Knowledge-Based Systems, 2020.
